@@ -105,7 +105,6 @@ $languages['ruby'] = [
   'name' => 'Ruby',
   'client_libraries' => [
     '<a href="http://github.com/intridea/oauth2">Ruby Gem</a>',
-    '<a href="http://github.com/aflatter/oauth2-ruby">Ruby</a>',
     '<a href="https://github.com/nov/rack-oauth2">Rack::OAuth2 - OAuth 2.0 Server & Client Library in Ruby.</a>',
   ],
   'server_libraries' => [
